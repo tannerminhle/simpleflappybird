@@ -1,2 +1,2 @@
 # Flappy Bird
-Simplified Flappy Bird Game
+Simplified flappy bird game using html!
